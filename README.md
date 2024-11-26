@@ -53,6 +53,9 @@ g++ -std=c++11 main.cpp Grid.cpp Controler.cpp -o GameOfLife -lraylib
 
 ## Video Walkthrough
 ![Game of Life Demo](C:/Users/002/Videos/dimo)
+<video src="C:/Users/002/Videos/dimo" controls>
+Your browser does not support the video tag.
+</video>
 
 ## Technologies
 - Language: C++
