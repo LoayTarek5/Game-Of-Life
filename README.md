@@ -51,8 +51,8 @@ g++ -std=c++11 main.cpp Grid.cpp Controler.cpp -o GameOfLife -lraylib
 #### Empty Cell Rules:
 - Becomes alive with exactly 3 neighbors
 
-## Screenshots
-[You can add game screenshots here if available]
+## Video Walkthrough
+![Game of Life Demo](C:/Users/002/Videos/dimo)
 
 ## Technologies
 - Language: C++
