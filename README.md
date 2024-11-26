@@ -52,11 +52,8 @@ g++ -std=c++11 main.cpp Grid.cpp Controler.cpp -o GameOfLife -lraylib
 - Becomes alive with exactly 3 neighbors
 
 ## Video Walkthrough
-![Game of Life Demo](C:/Users/002/Videos/dimo)
-<video width="640" height="360" controls>
-  <source src="C:/Users/002/Videos/dimo" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Uploading dimo-ezgif.com-video-to-gif-converter.gif…]()
+
 
 ## Technologies
 - Language: C++
