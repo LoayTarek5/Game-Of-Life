@@ -1,3 +1,4 @@
+![dimo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/501ae23f-c7b9-4252-9dd5-b44cfc1a6cfc)
 # Conway's Game of Life Simulation
 
 ## Overview
