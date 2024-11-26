@@ -51,7 +51,7 @@ g++ -std=c++11 main.cpp Grid.cpp Controler.cpp -o GameOfLife -lraylib
 #### Empty Cell Rules:
 - Becomes alive with exactly 3 neighbors
 
-## Video Walkthrough
+## Video Dimo
 ![dimo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/501ae23f-c7b9-4252-9dd5-b44cfc1a6cfc)
 
 ## Technologies
